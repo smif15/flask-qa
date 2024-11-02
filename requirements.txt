@@ -1,0 +1,10 @@
+Flask
+Flask-CORS
+google-generativeai
+leafmap
+tensorflow
+tensorflow-hub
+numpy
+Pillow
+tf-keras
+requests
